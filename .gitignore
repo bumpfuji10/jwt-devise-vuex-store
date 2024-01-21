@@ -31,3 +31,4 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+/20240121-16651-1tvkkro-credentials.yml
